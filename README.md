@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### Prettier
+```
+npm run prettier
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
